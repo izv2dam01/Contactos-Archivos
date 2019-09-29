@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">AadCurso1920App1</string>
+    <string name="archivoInterno">archivo interno</string>
+    <string name="archivoMensaje">Bla bla bla, permiso archivos  ...</string>
+    <string name="archivoPrivado">archivo privado</string>
+    <string name="archivoPublico">archivo público</string>
+    <string name="archivoTitulo">Título contactos</string>
+    <string name="contactosMensaje">Bla bla bla, permiso contactos  ...</string>
+    <string name="contactosTitulo">Título contactos</string>
+    <string name="escribirArchivo">leer contactos y escribir archivo</string>
+    <string name="leerArchivo">leer archivo y mostrar contactos</string>
+    <string name="nombreArchivo">nombre del archivo</string>
+    <string name="respNo">no</string>
+    <string name="respSi">sí</string>
+    <string name="resultado">Resultado:</string>
+</resources>
